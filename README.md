@@ -101,7 +101,7 @@ https://www.javatpoint.com/c-dereference-pointer
 
 https://pvs-studio.com/en/blog/posts/cpp/0360/
 
-6.Tipo de datos
+6.Tipos de datos
 
 https://www.arm.linux.org.uk/docs/faqs/signedchar.php
 
